@@ -27,7 +27,7 @@ public class Menu
         printBlankLine();
         drawLine(15);
         printBlankLine();
-        System.out.println("Program Finished.  Thanks for playing.");
+        System.out.println("Program Finished  .  Thanks for playing.");
     } // testAllShapes
 
     private static void drawSquare()
